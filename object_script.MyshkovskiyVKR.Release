@@ -1,0 +1,16 @@
+release/bishop.o
+release/chessboard.o
+release/chesscell.o
+release/chesspiece.o
+release/king.o
+release/knight.o
+release/main.o
+release/mainwindow.o
+release/pawn.o
+release/queen.o
+release/rook.o
+release/transformationpawn.o
+release/qrc_resource.o
+release/moc_chessboard.o
+release/moc_mainwindow.o
+release/moc_transformationpawn.o

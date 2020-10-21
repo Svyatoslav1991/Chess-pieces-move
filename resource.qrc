@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/ChessFigures">
+        <file>ChessFigures/black_bishop.png</file>
+        <file>ChessFigures/black_king.png</file>
+        <file>ChessFigures/black_knight.png</file>
+        <file>ChessFigures/black_pawn.png</file>
+        <file>ChessFigures/black_queen.png</file>
+        <file>ChessFigures/black_rook.png</file>
+        <file>ChessFigures/white_bishop.png</file>
+        <file>ChessFigures/white_king.png</file>
+        <file>ChessFigures/white_knight.png</file>
+        <file>ChessFigures/white_pawn.png</file>
+        <file>ChessFigures/white_queen.png</file>
+        <file>ChessFigures/white_rook.png</file>
+    </qresource>
+    <qresource prefix="/music">
+        <file>100-k-1-the-same-answer.mp3</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file>icons/cross.ico</file>
+        <file>icons/question.ico</file>
+        <file>icons/sound.ico</file>
+    </qresource>
+</RCC>

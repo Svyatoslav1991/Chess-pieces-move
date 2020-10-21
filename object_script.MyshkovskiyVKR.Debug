@@ -1,0 +1,16 @@
+debug/bishop.o
+debug/chessboard.o
+debug/chesscell.o
+debug/chesspiece.o
+debug/king.o
+debug/knight.o
+debug/main.o
+debug/mainwindow.o
+debug/pawn.o
+debug/queen.o
+debug/rook.o
+debug/transformationpawn.o
+debug/qrc_resource.o
+debug/moc_chessboard.o
+debug/moc_mainwindow.o
+debug/moc_transformationpawn.o
